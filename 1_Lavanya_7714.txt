@@ -1,0 +1,23 @@
+package mypkg;
+
+public class Assignment {
+
+public static void main(String[] args) {
+	char s = '\u0053';
+	char a = '\u0041';
+	char l = '\u004C';
+	char v = '\u0056';
+	char y = '\u0059';
+	char n = '\u004E';
+	
+	System.out.print(s);
+	System.out.print(" ");
+	System.out.print(l);
+	System.out.print(a);
+	System.out.print(v);
+	System.out.print(a);
+	System.out.print(n);
+	System.out.print(y);
+	System.out.print(a);
+}
+}
